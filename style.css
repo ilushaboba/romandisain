@@ -1,3 +1,21 @@
+@media (min-width: 1200px) {
+	
+}
+@media (min-width: 998px) {
+	h1{
+		background-color: red;
+	}
+}
+@media (min-width: 768px) {
+	
+}
+@media (min-width: 480px) {
+	
+}
+@media (min-width: 320px) {
+	
+}
+
 html {
   --s: 50px;
   --c: #191b22;
